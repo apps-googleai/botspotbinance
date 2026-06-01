@@ -1,0 +1,6 @@
+{
+  "name": "Binance Spot Auto-Trading Bot",
+  "description": "Automated spot trading robot for Binance with high win-rate scalping strategy using real-time RSI and Bollinger Bands indicators, strict automated risk management (Stop Loss and Take Profit), real-time charts, transaction logs, and Gemini AI market advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
